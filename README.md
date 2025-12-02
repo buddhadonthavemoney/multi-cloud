@@ -1,6 +1,6 @@
 # Multi-Cloud TicTacToe + Kubernetes Infrastructure
 
-This repository combines a **realtime multiplayer TicTacToe application** and a **production-ready multi-cloud Kubernetes infrastructure**. The goal is to demonstrate a full, cloud-agnostic deployment pipeline—from app to cluster—using reusable Terraform modules for AWS and GCP.
+This repository combines a **realtime multiplayer TicTacToe application** and a **multi-cloud Kubernetes infrastructure**. The goal is to demonstrate a full, cloud-agnostic deployment pipeline—from app to cluster—using reusable Terraform modules for AWS and GCP.
 
 ## What’s Inside
 
@@ -33,9 +33,7 @@ This layer provisions the clusters where the TicTacToe app can run.
 ## Purpose
 
 This repo serves as an end-to-end example of:
-
-* Building a realtime web app
-* Packaging it for Kubernetes
-* Deploying it consistently across **multiple cloud providers** using Terraform
+* Denormalizing vendor lockins
+* Using multiple cloud for active active setups and failover.
 
 Ideal for demos, learning, or as a foundation for multi-cloud projects.
