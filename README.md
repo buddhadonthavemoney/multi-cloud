@@ -30,16 +30,6 @@ This layer provisions the clusters where the TicTacToe app can run.
 
 ---
 
-## Repository Structure
-
-```
-/
-├── multicloud-tictactoe/        # FastAPI + Redis multiplayer game + K8s manifests
-└── multicloud-terraform/        # Multi-cloud infra: AWS EKS + GCP GKE modules + envs
-```
-
----
-
 ## Purpose
 
 This repo serves as an end-to-end example of:
