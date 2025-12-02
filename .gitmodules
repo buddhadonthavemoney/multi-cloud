@@ -1,0 +1,6 @@
+[submodule "multicloud-tiktaktoe"]
+	path = multicloud-tiktaktoe
+	url = ./multicloud-tiktaktoe
+[submodule "multicloud-terraform"]
+	path = multicloud-terraform
+	url = ./multicloud-terraform
