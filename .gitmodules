@@ -1,6 +1,6 @@
 [submodule "multicloud-tiktaktoe"]
 	path = multicloud-tiktaktoe
-	url = https://github.com/buddhadonthavemoney/multi-cloud-tiktaktoe
+	url = https://github.com/buddhadonthavemoney/multi-cloud-tictactoe
 [submodule "multicloud-terraform"]
 	path = multicloud-terraform
 	url = https://github.com/buddhadonthavemoney/multi-cloud-terraform
